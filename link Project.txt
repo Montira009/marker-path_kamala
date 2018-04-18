@@ -1,0 +1,3 @@
+https://developers.google.com/maps/documentation/javascript/examples/directions-waypoints
+https://developers.google.com/maps/documentation/javascript/examples/elevation-paths
+http://smartwaterphuket.com/
