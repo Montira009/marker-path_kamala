@@ -1,0 +1,21 @@
+http://geodacenter.github.io/documentation.html
+https://www.arcgis.com/index.html								//??????????????
+http://storymaps.arcgis.com/en/
+https://map.nostramap.com/NostraMap/?@17.213136,102.411735,5/th
+https://www.google.co.th/maps/d/u/0/
+
+
+
+
+
+
+
+https://www.openstreetmap.org/
+
+https://open-elevation.com/
+
+https://github.com/Jorl17/open-elevation
+
+?? github ????
+
+https://github.com/Jorl17/open-elevation/blob/master/docs/api.md
